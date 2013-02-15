@@ -27,6 +27,14 @@ Das lang ersehnte Regelwerk für das Spiel, das für alle Entscheidungsfragen he
 
 # Spielmodi #
 
+Die Spielmodi sind an Werktage gekoppelt und wie folgt verteilt:
+
+Montag     : Normaler Modus
+Dienstag   : Normaler Modus
+Mittwoch   : Inverted Day     - Die Wertigkeiten der Schnick-Figuren sind invertiert, also verliert die Kombination, die sonst gewinnt und andersherum.
+Donnerstag : Ultimate Schnick - Alle Anwesenden schnicken zur gleichen Zeit, dabei müssen immer alle Hände mit allen verglichen werden. Sind also alle 3 Figuren vertreten besteht ein Unentschieden und es muss weitergeschnickt werden. Gewinnen einer oder mehrer gegen alle anderen, sind die jeweiligen Personen sicher. Der Vorletzte muss alle Tablets aufbauen, der Letzte sie wegbringen. Für den Sonderfall, dass es nur einen Verlierer gibt, steht dieser als Träger fest und die Gewinner müssen erneut um den Vorletzten Platz schnicken.                                
+Freitag    : 3-Fach-Schnick   - Am Freitag wird jedes Match wie im normalen Modus ausgetragen, bloß besteht eine Partie aus einem Best of 3 Wettkampf. Es gewinnt also der, der zweimal die überlegene Hand gespielt hat.
+
 # Bestrafungen #
 
 # Sonderregelungen #
