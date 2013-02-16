@@ -4,7 +4,7 @@ schnick-regelwerk
 Das lang ersehnte Regelwerk für das Spiel, das für alle Entscheidungsfragen herangezogen werden muss.
 
 # Grundlegende Regeln #
-1. Schnicken ist __kein Spiel__, es ist __bitterer Ernst!__
+1. Schnicken ist __kein Spaß__, es ist __bitterer Ernst!__
 2. Das Spiel heißt Schnicken! Nicht Knobeln oder sonstwas.
 1. Die Regeln des vorliegenden Dokuments müssen unter allen Umständen eingehalten werden. 
 2. Wird eine Lücke im Regelwerk entdeckt, ist diese unverzüglich dem Schnick-Kommitee mitzuteilen, damit über Änderungen diskutiert werden kann und darüber hinaus eine Anpassung des Regelwerks erfolgen kann.
@@ -36,5 +36,14 @@ Die Spielmodi sind an Werktage gekoppelt und wie folgt verteilt:
 * _Freitag_: __3-Fach-Schnick__ Am Freitag wird jedes Match wie im normalen Modus ausgetragen, bloß besteht eine Partie aus einem Best of 3 Wettkampf. Es gewinnt also der, der zweimal die überlegene Hand gespielt hat.
 
 # Bestrafungen #
+
+Für Regelverstöße jedweder Art werden Bestrafungen unterschiedlicher Härte angewendet. Abhängig davon wie grob die Missachtung der definierten Richtlinien ausfällt, wird der Verursacher eine Wiedergutmachung im Sinne einer Ableistung von Strafen zur Belustigung der restlichen Schnickgemeinschaft verurteilt. 
+
+Regelverstöße werden in mehrere Gruppen unterteilt, bei denen die Schwere der Verstöße Nummern entsprechen. Dabei werden schwerwiegenden Regelverstößen hohe Nummern zugewiesen, die logischerweise eine härtere Bestrafung zur Folge haben.
+
+1. Fehlerhafte Fixierung oder Trennung des Mülls
+2. Falsches oder unsicheres Stapeln der  Geschirruntensilien
+3. Falsche oder unterlassene Müllentsorgung
+4. Wissentliche Missachtung der definierten Regeln und Bestrafungen
 
 # Sonderregelungen #
