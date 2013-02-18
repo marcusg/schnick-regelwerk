@@ -9,6 +9,8 @@ Das lang ersehnte Regelwerk für das Spiel, das für alle Entscheidungsfragen he
 1. Die Regeln des vorliegenden Dokuments müssen unter allen Umständen eingehalten werden. 
 2. Wird eine Lücke im Regelwerk entdeckt, ist diese unverzüglich dem Schnick-Kommitee mitzuteilen, damit über Änderungen diskutiert werden kann und darüber hinaus eine Anpassung des Regelwerks erfolgen kann.
 3. Erlaubte Schnick-Figuren sind ausschließlich folgende: __Stein, Schere, Papier__. Es gibt keinen Brunnen!
+4. Der Schnickvorgang muss synchron und mit einer Grund-Frequenz von 2.25 HZ (135 bpm) erfolgen.
+5. Ist Asynchronität im Schnickvorgang zu erkennen muss dieser unverzüglich abgebrochen werden.
 
 # 2. Schnicken - In der Mensa #
 1. Jeder Anwesende, der in das Spiel eingewiesen wurde und in der gleichen Tischreihe sitzt, muss am Spiel teilnehmen
