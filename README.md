@@ -25,9 +25,10 @@ Das lang ersehnte Regelwerk für das Spiel, das für alle Entscheidungsfragen he
 4. Tablets, Teller, Becher und Schüsseln sind nach Typ bzw. Größe/Fassungsvermögen zu stapeln. Die maximale Anzahl beträgt dabei 4 (ausgenommen Tablets und Teller, diese dürfen unbegrenzt gestapelt werden), bei Überschreitung muss ein neuer Stapel begonnen werden.
 5. Essensreste sind auf dem jeweils obersten Teller zu sammeln, die darunterliegenden müssen soweit gereinigt werden, dass ein Verrutschen derselben nicht möglich ist. Flüssigkeiten sind in dem Gefäß mit dem größten Fassungsvolumen zu vereinen.
 6. Der Abnehmer muss aktiv an der Übergabe des/der Tablets beteiligt sein. Dafür stehen folgenden Optionen zur Verfügung:
-* die abnehmende Person stimmt verbal zu. Bsp: "Die Tablets sind abgenommen.". Dabei ist zu beachten dass das Wort "abgenommen" mindestens einmal und in nicht negiertet Form klar und deutlich ausgesprochen wird.
-* die abnehmende Person berührt das Tablet versehentlich aus eigenen Stücken oder bewusst.
+  * die abnehmende Person stimmt verbal zu. Bsp: "Die Tablets sind abgenommen.". Dabei ist zu beachten dass das Wort "abgenommen" mindestens einmal und in nicht negiertet Form klar und deutlich ausgesprochen wird.
+  * die abnehmende Person berührt das Tablet versehentlich aus eigenen Stücken oder bewusst.
 7. Die passive Berührung, beispielsweise durch das rücksichtslose zuschieben des/der Tablets wird als ungültiger Abnahme-versuch gesehen.
+
 # 4. Spielmodi #
 
 Die Spielmodi sind an Werktage gekoppelt und wie folgt verteilt:
